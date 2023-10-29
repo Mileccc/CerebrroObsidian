@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"file","file":"000-CEREBRO DIGITAL/Matemáticas/030-Álgebra/020-Binomios.md","id":"9ad3100dfd799f20","x":885,"y":-110,"width":400,"height":400},
+		{"type":"file","file":"000-CEREBRO DIGITAL/Matemáticas/030-Álgebra/030-Trinomios.md","id":"d2f7f2c783bf4c44","x":1339,"y":-110,"width":400,"height":400},
+		{"type":"file","file":"000-CEREBRO DIGITAL/Matemáticas/030-Álgebra/040-Cuadráticas.md","id":"f518022987c00c8a","x":1800,"y":-110,"width":400,"height":400},
+		{"type":"file","file":"000-CEREBRO DIGITAL/Matemáticas/030-Álgebra/010-Ecuaciones exponenciales.md","id":"4bd9eb976e042ff5","x":-40,"y":-110,"width":400,"height":400},
+		{"type":"file","file":"000-CEREBRO DIGITAL/Matemáticas/030-Álgebra/005-Ecuaciones Lineales.md","id":"60f917087af346fd","x":-520,"y":-110,"width":400,"height":400},
+		{"type":"text","text":"[[000-Menú Algebra📃]]","id":"702bc9b615554257","x":520,"y":-400,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"b4f99c8562db0312","fromNode":"702bc9b615554257","fromSide":"bottom","toNode":"60f917087af346fd","toSide":"top"},
+		{"id":"cb3795feea030af3","fromNode":"702bc9b615554257","fromSide":"bottom","toNode":"4bd9eb976e042ff5","toSide":"top"},
+		{"id":"072c7a9ea2f19e35","fromNode":"702bc9b615554257","fromSide":"bottom","toNode":"9ad3100dfd799f20","toSide":"top"},
+		{"id":"262a1fefa1340b62","fromNode":"702bc9b615554257","fromSide":"bottom","toNode":"d2f7f2c783bf4c44","toSide":"top"},
+		{"id":"d7b09a6c46d25b46","fromNode":"702bc9b615554257","fromSide":"bottom","toNode":"f518022987c00c8a","toSide":"top"}
+	]
+}

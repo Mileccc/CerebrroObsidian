@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"dbe0f566e75db4e2","type":"text","text":"### Diferencia entre conjuntos\n$$A\\setminus\\\\B$$","x":160,"y":-540,"width":580,"height":160},
+		{"id":"f7b900dafa31e97a","type":"text","text":"### Complemento de A\n$$A'=\\cup-A=\\cup\\setminus\\\\A$$","x":880,"y":-540,"width":400,"height":160},
+		{"id":"5578729448eb6803","type":"text","text":"# CONJUNTOS","x":499,"y":-980,"width":482,"height":120},
+		{"id":"cd3e4e083acf2c6d","type":"text","text":"### A es Superconjunto de B\n$$A \\supseteq B$$","x":180,"y":-1500,"width":507,"height":160},
+		{"id":"0ae959dee6b6fe87","type":"text","text":"### A Superconjunto propio de B\n$$A \\supsetneq B$$","x":738,"y":-1487,"width":602,"height":147},
+		{"id":"5306a2b9ebdb80d2","type":"text","text":"### B Subconjunto de A\n$$B \\subseteq A$$","x":1280,"y":-1180,"width":400,"height":160},
+		{"id":"079155756a6982bc","type":"text","text":"### B Subconjunto propio de A\n$$B \\subsetneq A$$","x":1280,"y":-980,"width":540,"height":163},
+		{"id":"65aabe71b0a9ddc7","type":"text","text":"### A Unión B\n$$A \\cup B$$","x":-180,"y":-1120,"width":290,"height":140},
+		{"id":"fdcc3d7227dacf57","type":"text","text":"### A intersección de B\n$$A \\cap B$$","x":-220,"y":-887,"width":440,"height":167},
+		{"id":"f5572ba66d72ca0e","type":"text","text":"### Probabilidad Condicional\n$$p(A \\cap B)=p(A|B)·p(B)$$\n$$p(A \\cap B)=p(B|A)·p(A)$$\n\n\n$$\\frac{p(B|A)·p(A)}{p(B)}$$","x":-526,"y":-480,"width":491,"height":360}
+	],
+	"edges":[
+		{"id":"d4dc6b04be09f41e","fromNode":"5578729448eb6803","fromSide":"left","toNode":"65aabe71b0a9ddc7","toSide":"right"},
+		{"id":"84e4ff601d33b7fc","fromNode":"5578729448eb6803","fromSide":"left","toNode":"fdcc3d7227dacf57","toSide":"right"},
+		{"id":"a74f8720fa2fd5a9","fromNode":"5578729448eb6803","fromSide":"bottom","toNode":"dbe0f566e75db4e2","toSide":"top"},
+		{"id":"ee9f6b34fc5e8da4","fromNode":"5578729448eb6803","fromSide":"bottom","toNode":"f7b900dafa31e97a","toSide":"top"},
+		{"id":"ece8f5712bd8b866","fromNode":"5578729448eb6803","fromSide":"top","toNode":"cd3e4e083acf2c6d","toSide":"bottom"},
+		{"id":"beb3ba6627c2ee46","fromNode":"5578729448eb6803","fromSide":"top","toNode":"0ae959dee6b6fe87","toSide":"bottom"},
+		{"id":"4f06432a0d25c1bd","fromNode":"5578729448eb6803","fromSide":"right","toNode":"079155756a6982bc","toSide":"left"},
+		{"id":"bbd2aa487b9cdc64","fromNode":"5578729448eb6803","fromSide":"right","toNode":"5306a2b9ebdb80d2","toSide":"left"}
+	]
+}

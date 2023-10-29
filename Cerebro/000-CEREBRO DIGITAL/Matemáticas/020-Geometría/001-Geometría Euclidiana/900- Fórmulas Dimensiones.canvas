@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c1f660d6fe3e00df","x":-820,"y":-620,"width":360,"height":450,"type":"text","text":"![[Pasted image 20230923081126.png]]\n\n$$area=b^2$$\n$$perímetro=4·b$$"},
+		{"id":"b0a023b19b11de09","x":-380,"y":-620,"width":440,"height":450,"type":"text","text":"![[Pasted image 20230923081307.png]]\n\n$$are=b·a$$\n$$perímetro=2(a+b)$$"},
+		{"id":"25add8ea1822daeb","x":120,"y":-620,"width":580,"height":480,"type":"text","text":"![[Pasted image 20230923081442.png]]\n\n$$area=\\frac{1}{2}·b·h$$\n$$perímetro=a+b+c$$"},
+		{"id":"178f87875ed2201a","x":-840,"y":-60,"width":400,"height":420,"type":"text","text":"![[Pasted image 20230923081636.png]]\n\n$$area=b·h$$\n$$perímetro=2(a+b)$$\n"},
+		{"id":"7f776930bc47202d","x":-340,"y":-60,"width":505,"height":480,"type":"text","text":"![[Pasted image 20230923081744.png]]\n\n$$area=\\frac{1}{2}·h(b_{1}+b_{2})$$\n$$perímetro=b_{1}+b_{2}+a+c$$"},
+		{"id":"0d8e701d714aed64","x":200,"y":-60,"width":535,"height":420,"type":"text","text":"![[Pasted image 20230923081930.png]]\n\n$$area=\\pi·r^2$$\n$$circunferencia=2·\\pi·r$$"}
+	],
+	"edges":[]
+}

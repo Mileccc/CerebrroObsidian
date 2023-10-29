@@ -1,0 +1,19 @@
+{
+  "tag-colors": [
+    {
+      "tagKey": "#matematicas",
+      "color": "rgba(241, 169, 30, 1)",
+      "backgroundColor": "rgba(237, 203, 116, 0.1)"
+    },
+    {
+      "tagKey": "programacion",
+      "color": "rgba(28, 253, 8, 1)",
+      "backgroundColor": "rgba(0, 0, 0, 0.1)"
+    }
+  ],
+  "hide-card-count": true,
+  "show-checkboxes": true,
+  "hide-tags-in-title": true,
+  "hide-tags-display": true,
+  "hide-date-in-title": false
+}

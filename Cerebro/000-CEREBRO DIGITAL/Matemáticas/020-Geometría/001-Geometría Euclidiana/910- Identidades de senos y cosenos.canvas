@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"ccd4d82e6eb13950","x":2160,"y":-1260,"width":660,"height":103,"type":"text","text":"## Identidades de los ángulos"},
+		{"id":"cbdea5660f8af03c","x":2230,"y":-1080,"width":521,"height":232,"type":"text","text":"### Identidades base\n$cos(-c)=cos(c)$\n$sin(-c)=-sin(c)$\n$\\cos^2(a)-\\sin^2(a)=1$"},
+		{"id":"0d803572deb762d4","type":"text","text":"![[Pasted image 20230923074832.png|1100]]","x":717,"y":-1568,"width":1160,"height":720},
+		{"id":"e5e4e84b559f6317","type":"text","text":"\n$sin(\\sigma)=\\frac{opuesto}{hipotenusa}$\n$\\cos(\\sigma)=\\frac{adyacente }{hipotenusa}$\n$\\tan(\\sigma)=\\frac{opuesto}{adyacente}$\n$\\csc(\\sigma)=\\frac{1}{\\sin}$\n$sec(\\sigma)=\\frac{1}{\\cos}$\n$\\cot(\\sigma)=\\frac{1}{\\tan}$","x":3000,"y":-1378,"width":300,"height":340},
+		{"id":"a2607306191f1822","type":"text","text":"### Fórmula hipotenusa\n$$h^2=a^2+b^2$$","x":1041,"y":-1840,"width":513,"height":171},
+		{"id":"d9cb31ca39830316","type":"text","text":"![[Pasted image 20230923074958.png]]","x":-460,"y":-2154,"width":1040,"height":800},
+		{"id":"7fcba5221419dde8","x":1754,"y":-560,"width":736,"height":380,"type":"text","text":"### Suma de ángulos\n$sen(a+b)=sen(a)·cos(b)+sen(b)·cos(a)$\n$\\cos(a+b)=\\cos(a)·\\cos(b)-\\sin(a)·\\sin(b)$\n"},
+		{"id":"779387b53f5f60cf","x":2590,"y":-570,"width":560,"height":380,"type":"text","text":"### Multiplicación de ángulos\n$\\cos(2a)=\\cos(a+a)$\n$\\cos(2a)=\\cos^2(a)-\\sin^2(a)$\n$\\cos(2a)=2\\cos^2(a)-1$\n$\\sin(2a)=\\sin(a+a)$\n$\\sin(2a)=2\\sin(a)·\\cos(a)$"},
+		{"id":"00f616f47c279edc","x":3260,"y":-570,"width":560,"height":360,"type":"text","text":"### Potencia de ángulos\n$\\cos^2(a)=\\frac{1}{2}(\\cos(2a)+1))$\n$\\sin^2(a)=\\frac{1}{2}(1-\\cos(2a))$"}
+	],
+	"edges":[
+		{"id":"eda6dd9f5f5f7372","fromNode":"ccd4d82e6eb13950","fromSide":"bottom","toNode":"cbdea5660f8af03c","toSide":"top"},
+		{"id":"d299cdf6189f1b4a","fromNode":"cbdea5660f8af03c","fromSide":"bottom","toNode":"7fcba5221419dde8","toSide":"top"},
+		{"id":"71f507848c480762","fromNode":"ccd4d82e6eb13950","fromSide":"right","toNode":"e5e4e84b559f6317","toSide":"left"},
+		{"id":"833f7cfe150115b7","fromNode":"ccd4d82e6eb13950","fromSide":"left","toNode":"0d803572deb762d4","toSide":"right"},
+		{"id":"414261c5d066ec03","fromNode":"a2607306191f1822","fromSide":"bottom","toNode":"0d803572deb762d4","toSide":"top"},
+		{"id":"0129c08889a978a7","fromNode":"a2607306191f1822","fromSide":"left","toNode":"d9cb31ca39830316","toSide":"right"},
+		{"id":"a700241b06a4a3c5","fromNode":"cbdea5660f8af03c","fromSide":"bottom","toNode":"779387b53f5f60cf","toSide":"top"},
+		{"id":"9ef2a9365916a941","fromNode":"cbdea5660f8af03c","fromSide":"bottom","toNode":"00f616f47c279edc","toSide":"top"}
+	]
+}

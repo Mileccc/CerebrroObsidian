@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[000-Menú Geometría Euclidiana📃|Geometría Euclidiana]]","id":"74a46f0751bb652f","x":40,"y":-120,"width":250,"height":60},
+		{"type":"text","text":"[[000-Menú Geometría Analítica📃|Geometría Analítica]]\n\n","id":"e44061d891dd08f3","x":-230,"y":-120,"width":220,"height":60},
+		{"type":"text","text":"[[000-Menú Geometría📃|Geometría]]","id":"9ffc30ff324604ab","x":-200,"y":-300,"width":160,"height":60},
+		{"id":"8a8af06a31a6111e","x":-540,"y":-120,"width":250,"height":60,"type":"text","text":"[[000-Menú Geometría Espacial📃|Geometría Espacial]]"}
+	],
+	"edges":[
+		{"id":"07d91a8cfa265ce9","fromNode":"9ffc30ff324604ab","fromSide":"right","toNode":"74a46f0751bb652f","toSide":"top"},
+		{"id":"983f299a17c8237e","fromNode":"9ffc30ff324604ab","fromSide":"bottom","toNode":"e44061d891dd08f3","toSide":"top"},
+		{"id":"e8614e7ecb5d448b","fromNode":"9ffc30ff324604ab","fromSide":"left","toNode":"8a8af06a31a6111e","toSide":"top"}
+	]
+}

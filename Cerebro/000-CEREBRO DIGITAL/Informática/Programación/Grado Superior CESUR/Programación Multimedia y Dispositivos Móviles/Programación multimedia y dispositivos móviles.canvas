@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"3d310f6fc5f41afc","type":"group","x":-5120,"y":80,"width":7160,"height":2080,"color":"3","label":"Análisis de tecnologías para aplicaciones en dispositivos móviles"},
+		{"id":"603b93fe7b55503b","type":"file","file":"000-CEREBRO DIGITAL/Informática/Programación/Grado Superior CESUR/Programación Multimedia y Dispositivos Móviles/002- Limitaciones de las Aplicaciones móviles.md","x":960,"y":298,"width":800,"height":760,"color":"1"},
+		{"id":"19a1629d125f05ff","type":"file","file":"000-CEREBRO DIGITAL/Informática/Programación/Grado Superior CESUR/Programación Multimedia y Dispositivos Móviles/003- Entornos integrados y módulos de desarrollo.md","x":-160,"y":298,"width":800,"height":760,"color":"1"},
+		{"id":"e8feef469852876d","type":"file","file":"000-CEREBRO DIGITAL/Informática/Programación/Grado Superior CESUR/Programación Multimedia y Dispositivos Móviles/004- Emuladores para dispositivos móviles.md","x":-1320,"y":298,"width":800,"height":760,"color":"1"},
+		{"id":"af2f87a8901e8945","type":"file","file":"000-CEREBRO DIGITAL/Informática/Programación/Grado Superior CESUR/Programación Multimedia y Dispositivos Móviles/005- Configuraciones y perfiles. Tipologías, características y dispositivos soportados.md","x":-2520,"y":298,"width":800,"height":760,"color":"1"},
+		{"id":"2db9746c3d75f687","type":"file","file":"000-CEREBRO DIGITAL/Informática/Programación/Grado Superior CESUR/Programación Multimedia y Dispositivos Móviles/006- Ciclo de Vida de una Aplicación Móvil (MIDlet).md","x":-3720,"y":298,"width":800,"height":760,"color":"1"},
+		{"id":"2af7603ed33dd48b","type":"file","file":"000-CEREBRO DIGITAL/Informática/Programación/Grado Superior CESUR/Programación Multimedia y Dispositivos Móviles/007- Modificación de Aplicaciones Móviles con APK Editor.md","x":-4920,"y":298,"width":800,"height":760,"color":"2"},
+		{"id":"08e69084c04508bc","type":"file","file":"000-CEREBRO DIGITAL/Informática/Programación/Grado Superior CESUR/Programación Multimedia y Dispositivos Móviles/001- Mapas mentales UD1   análisis de tecnologías para aplicaciones en dispositivos móviles.md","x":960,"y":1240,"width":800,"height":760,"color":"#ffffff"},
+		{"id":"8cd2cb3b23427098","type":"text","text":"# Programación Multimedia y Dispositivos Móviles","x":3900,"y":740,"width":953,"height":245,"color":"#ff00ff"}
+	],
+	"edges":[
+		{"id":"bd94754651a10bbd","fromNode":"8cd2cb3b23427098","fromSide":"left","toNode":"603b93fe7b55503b","toSide":"right","color":"1"},
+		{"id":"4f313436416f81d8","fromNode":"603b93fe7b55503b","fromSide":"left","toNode":"19a1629d125f05ff","toSide":"right","color":"1"},
+		{"id":"e18e2bf9bc7abba9","fromNode":"19a1629d125f05ff","fromSide":"left","toNode":"e8feef469852876d","toSide":"right","color":"1"},
+		{"id":"f50b6cef48a0e266","fromNode":"e8feef469852876d","fromSide":"left","toNode":"af2f87a8901e8945","toSide":"right","color":"1"},
+		{"id":"4d9684ac633d4cf8","fromNode":"af2f87a8901e8945","fromSide":"left","toNode":"2db9746c3d75f687","toSide":"right","color":"1"},
+		{"id":"813585d009d0ae25","fromNode":"2db9746c3d75f687","fromSide":"left","toNode":"2af7603ed33dd48b","toSide":"right","color":"1"},
+		{"id":"eb69635bd1332509","fromNode":"8cd2cb3b23427098","fromSide":"left","toNode":"08e69084c04508bc","toSide":"right","color":"#ffffff"}
+	]
+}

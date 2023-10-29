@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"4b2c921937eff3f0","x":-200,"y":-920,"width":640,"height":340,"type":"text","text":"### Forma exponencial\n$$r⋅e^{iθ}$$\n$$(r_{1}·e^{i\\theta_{1}})·(r_{2}·e^{i\\theta_{2}}=r_{1}r_{2}·e^{i(\\theta_{1}+\\theta_{2})})$$\n$$r·e^{i\\theta}=r(\\cos(\\theta)+i·\\sin(\\theta))$$"},
+		{"id":"f5e00dd40b254c4b","type":"text","text":"### Forma polar \n$$a=r\\cos(\\theta)$$\n$$b=r\\sin(\\theta)$$","x":280,"y":80,"width":500,"height":280},
+		{"id":"18926bfe0a11104f","type":"text","text":"### Forma rectangular \n$$r=\\sqrt{a^2+b^2}$$\n$$\\tan(\\theta)=\\frac{b}{a}=\\frac{sen(\\theta)}{\\cos(\\theta)}$$\n$$\\theta=\\arctan\\left(\\frac{b}{a}\\right)$$","x":-580,"y":-360,"width":500,"height":460}
+	],
+	"edges":[
+		{"id":"062abc4d2ca9acf9","fromNode":"f5e00dd40b254c4b","fromSide":"top","toNode":"4b2c921937eff3f0","toSide":"right"},
+		{"id":"90b42690e0abe49b","fromNode":"4b2c921937eff3f0","fromSide":"left","toNode":"18926bfe0a11104f","toSide":"top"},
+		{"id":"d58d97333a2d583e","fromNode":"18926bfe0a11104f","fromSide":"bottom","toNode":"f5e00dd40b254c4b","toSide":"left"},
+		{"id":"b65a74f60a76a8f9","fromNode":"f5e00dd40b254c4b","fromSide":"left","toNode":"18926bfe0a11104f","toSide":"bottom"},
+		{"id":"136149f36aa1cc1f","fromNode":"18926bfe0a11104f","fromSide":"top","toNode":"4b2c921937eff3f0","toSide":"left"},
+		{"id":"8cab221e089b288d","fromNode":"4b2c921937eff3f0","fromSide":"right","toNode":"f5e00dd40b254c4b","toSide":"top"}
+	]
+}

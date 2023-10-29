@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"55c3b0143aa38346","type":"text","text":"#### Discreta \nFácil hacer el conteo\n- Numero hijos\n- Número PCs","x":-1040,"y":280,"width":360,"height":240},
+		{"id":"b4d2ce6e13563832","type":"text","text":"#### Ordinal\nImplican un orden\n- Nivel de estudio\n- Calidad de servicios\n","x":540,"y":280,"width":400,"height":240},
+		{"id":"43e64f737dcaa551","type":"text","text":"#### Continua\nLas cifras no se pueden controlar\n- Estatura\n- Sueldo","x":-640,"y":280,"width":522,"height":240},
+		{"id":"d5a43453b7d92f65","type":"text","text":"### Cuantitativa\nNuméricas\n\n","x":-800,"y":-40,"width":280,"height":140},
+		{"id":"09ceb204ef899e07","type":"text","text":"## Variables Estadísticas","x":-280,"y":-280,"width":500,"height":100},
+		{"id":"2643f4f1a300c7e8","type":"text","text":"#### Nominal\nNo implican un orden\n- Color preferido\n- Profesión","x":100,"y":280,"width":360,"height":240},
+		{"id":"22f0681822355e55","type":"text","text":"### Cualitativas\nCualidades.\n\n","x":380,"y":-40,"width":260,"height":140},
+		{"id":"201c6224436007ba","type":"text","text":"### Unidad estadística","x":155,"y":-450,"width":385,"height":80},
+		{"id":"4167d2bdcfacd6c3","type":"text","text":"### Población","x":-520,"y":-450,"width":325,"height":80},
+		{"id":"1527b425d8bb7abb","type":"text","text":"#### Finita","x":-645,"y":-600,"width":250,"height":60},
+		{"id":"7e44e82e412cc6a1","type":"text","text":"#### Infinita","x":-312,"y":-600,"width":250,"height":60},
+		{"id":"83a2be82fa2f3eb5","type":"text","text":"#### Objeto","x":60,"y":-600,"width":250,"height":60},
+		{"id":"15b28e2f149dc058","type":"text","text":"#### Persona","x":440,"y":-600,"width":250,"height":60},
+		{"id":"1e6b383a573da85d","type":"text","text":"### Datos","x":-1720,"y":-420,"width":250,"height":60},
+		{"id":"161cfede54d0315b","type":"text","text":"#### Experimentales","x":-1340,"y":-580,"width":320,"height":57},
+		{"id":"635682f4f008329d","type":"text","text":"#### De encuesta","x":-1340,"y":-420,"width":280,"height":60},
+		{"id":"d1578f45bfba8ab4","type":"text","text":"#### Clasificados","x":-1340,"y":-250,"width":300,"height":70},
+		{"id":"c9805c958bd62af0","type":"text","text":"#### Dicotómicas\nRespuestas cerradas\n- Hombre, Mujer\n- Verdadero, Falso","x":1000,"y":280,"width":420,"height":240}
+	],
+	"edges":[
+		{"id":"e23af5735fb44257","fromNode":"09ceb204ef899e07","fromSide":"bottom","toNode":"d5a43453b7d92f65","toSide":"top"},
+		{"id":"8bad44ec4365d2e9","fromNode":"09ceb204ef899e07","fromSide":"bottom","toNode":"22f0681822355e55","toSide":"top"},
+		{"id":"3141440ca9e76cbd","fromNode":"d5a43453b7d92f65","fromSide":"bottom","toNode":"55c3b0143aa38346","toSide":"top"},
+		{"id":"bad40c14aa2f9c72","fromNode":"d5a43453b7d92f65","fromSide":"bottom","toNode":"43e64f737dcaa551","toSide":"top"},
+		{"id":"0471c56807ab4156","fromNode":"22f0681822355e55","fromSide":"bottom","toNode":"2643f4f1a300c7e8","toSide":"top"},
+		{"id":"d50f753dc5d89b8f","fromNode":"22f0681822355e55","fromSide":"bottom","toNode":"b4d2ce6e13563832","toSide":"top"},
+		{"id":"a6273719cc94a810","fromNode":"4167d2bdcfacd6c3","fromSide":"top","toNode":"1527b425d8bb7abb","toSide":"bottom"},
+		{"id":"342aa4f94a1ad032","fromNode":"4167d2bdcfacd6c3","fromSide":"top","toNode":"7e44e82e412cc6a1","toSide":"bottom"},
+		{"id":"4c62002466eaa3bf","fromNode":"09ceb204ef899e07","fromSide":"top","toNode":"4167d2bdcfacd6c3","toSide":"bottom"},
+		{"id":"3fda9105ad766374","fromNode":"09ceb204ef899e07","fromSide":"top","toNode":"201c6224436007ba","toSide":"bottom"},
+		{"id":"793404a3867f462b","fromNode":"201c6224436007ba","fromSide":"top","toNode":"83a2be82fa2f3eb5","toSide":"bottom"},
+		{"id":"43d4c70205ce8f44","fromNode":"201c6224436007ba","fromSide":"top","toNode":"15b28e2f149dc058","toSide":"bottom"},
+		{"id":"01fddadc48816cac","fromNode":"1e6b383a573da85d","fromSide":"right","toNode":"161cfede54d0315b","toSide":"left"},
+		{"id":"93644ad82e1711e3","fromNode":"1e6b383a573da85d","fromSide":"right","toNode":"635682f4f008329d","toSide":"left"},
+		{"id":"cf23411850053006","fromNode":"1e6b383a573da85d","fromSide":"right","toNode":"d1578f45bfba8ab4","toSide":"left"},
+		{"id":"40abf929995bd36c","fromNode":"22f0681822355e55","fromSide":"bottom","toNode":"c9805c958bd62af0","toSide":"top"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"82289b0a924f2825","x":-120,"y":-300,"width":250,"height":60,"type":"text","text":"[[000-Menú Geometría Espacial📃|Menú Geometría Espacial]]"},
+		{"id":"fbffb1a9e703bb87","x":-120,"y":-80,"width":250,"height":60,"type":"text","text":"[[020-3D volumen y área|3D Volumen y Área]]"}
+	],
+	"edges":[
+		{"id":"06672189ebe38fc6","fromNode":"82289b0a924f2825","fromSide":"bottom","toNode":"fbffb1a9e703bb87","toSide":"top"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"file","file":"000-CEREBRO DIGITAL/Informática/Programación/Otros/Markdown/001-Metadatos.md","id":"ebfec2ab8fd09622","x":-840,"y":196,"width":400,"height":400},
+		{"type":"file","file":"000-CEREBRO DIGITAL/Informática/Programación/Otros/Markdown/010-Dataview.md","id":"7612e2441c587de9","x":-180,"y":187,"width":400,"height":400},
+		{"type":"file","file":"000-CEREBRO DIGITAL/Informática/Programación/Otros/Markdown/020-Dataview_funciones.md","id":"5c30ad51f9c3efec","x":520,"y":187,"width":400,"height":400},
+		{"type":"file","file":"000-CEREBRO DIGITAL/Informática/Programación/Otros/Markdown/030-Tablas.md","id":"343037fd244de56c","x":-840,"y":780,"width":400,"height":400},
+		{"id":"1e00c2f5beae627e","x":-52,"y":-160,"width":145,"height":60,"type":"text","text":"[[000-Menú Markdown 📃|000-Menú Markdown 📃]]"}
+	],
+	"edges":[
+		{"id":"f0d1c8eca1a0baeb","fromNode":"ebfec2ab8fd09622","fromSide":"bottom","toNode":"343037fd244de56c","toSide":"top"},
+		{"id":"9ad901db24a6ae8e","fromNode":"1e00c2f5beae627e","fromSide":"bottom","toNode":"ebfec2ab8fd09622","toSide":"top"},
+		{"id":"2120963fed7b7c80","fromNode":"1e00c2f5beae627e","fromSide":"bottom","toNode":"7612e2441c587de9","toSide":"top"},
+		{"id":"16326b9dfbb6f8c7","fromNode":"1e00c2f5beae627e","fromSide":"bottom","toNode":"5c30ad51f9c3efec","toSide":"top"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"93ae20f76b6f8360","x":-234,"y":260,"width":400,"height":400,"type":"file","file":"000-CEREBRO DIGITAL/Informática/Programación/Otros/LaTeX/010-Formulas matemáticas con LaTeX.md"},
+		{"id":"0ba40189b8852d58","x":-166,"y":20,"width":265,"height":60,"type":"text","text":"[[000-Menú LaTeX 📃|000-Menú LaTeX 📃]]"}
+	],
+	"edges":[
+		{"id":"e95d733cf4290479","fromNode":"0ba40189b8852d58","fromSide":"bottom","toNode":"93ae20f76b6f8360","toSide":"top"}
+	]
+}

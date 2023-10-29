@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[000-Menú Matemáticas📃|Matemáticas]]","id":"f090685148e459f1","x":223,"y":-760,"width":157,"height":60},
+		{"type":"text","text":"[[000-Menú Algebra📃|Álgebra]]","id":"b07a0d033a6655e2","x":239,"y":-520,"width":125,"height":60},
+		{"type":"text","text":"[[000-Menú Geometría📃|Geometría]]","id":"4117b117acdb9b94","x":580,"y":-755,"width":140,"height":50},
+		{"type":"text","text":"[[000-Menú Aritmética📃|Aritmética]]","id":"104f70a73fd64c48","x":-100,"y":-755,"width":150,"height":50},
+		{"id":"29cc754d54ea6fc3","x":800,"y":-880,"width":250,"height":60,"type":"text","text":"[[000-Menú Geometría Analítica📃|Geometría Analítica]]"},
+		{"id":"6c1da9e30aa53347","x":800,"y":-640,"width":250,"height":60,"type":"text","text":"[[000-Menú Geometría Euclidiana📃|Geometría Euclidiana]]"}
+	],
+	"edges":[
+		{"id":"7e0a3c040e31388b","fromNode":"f090685148e459f1","fromSide":"right","toNode":"4117b117acdb9b94","toSide":"left"},
+		{"id":"5caa8dfa742f6299","fromNode":"f090685148e459f1","fromSide":"left","toNode":"104f70a73fd64c48","toSide":"right"},
+		{"id":"bd93624060a5f630","fromNode":"f090685148e459f1","fromSide":"bottom","toNode":"b07a0d033a6655e2","toSide":"top"},
+		{"id":"46af0b6c52984356","fromNode":"4117b117acdb9b94","fromSide":"bottom","toNode":"6c1da9e30aa53347","toSide":"left"},
+		{"id":"503a44fd6ca542d5","fromNode":"4117b117acdb9b94","fromSide":"top","toNode":"29cc754d54ea6fc3","toSide":"left"}
+	]
+}

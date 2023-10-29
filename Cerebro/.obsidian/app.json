@@ -1,0 +1,14 @@
+{
+  "defaultViewMode": "preview",
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "./ANEXOS",
+  "showFrontmatter": false,
+  "promptDelete": false,
+  "readableLineLength": false,
+  "userIgnoreFilters": [
+    "100-tabla",
+    "desktop"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[000-Menú Geometría Analítica📃|Menú Geometría Analítica]]","id":"108620fff7775cec","x":-267,"y":-320,"width":285,"height":50},
+		{"type":"text","text":"[[010-Plano cartesiano o coordenado|Plano Cartesiano o coordenado]]","id":"0d4c23a804cdba0a","x":-297,"y":-160,"width":345,"height":50},
+		{"type":"text","text":"[[030-Transformaciones, congruencia y semejanza|Transformaciones, congruencia y semejanza]]","id":"34ff0009de7eaf0a","x":-124,"y":-490,"width":429,"height":50},
+		{"type":"text","text":"[[020-Fórmula de la distancia y el promedio|Fórmula de la distancia]]","id":"d2b879278f5c48fd","x":-460,"y":-490,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"2b631f1c09fb1c20","fromNode":"108620fff7775cec","fromSide":"left","toNode":"d2b879278f5c48fd","toSide":"bottom"},
+		{"id":"0e5777223e4d168d","fromNode":"108620fff7775cec","fromSide":"right","toNode":"34ff0009de7eaf0a","toSide":"bottom"},
+		{"id":"ec82365e1ca9a95f","fromNode":"108620fff7775cec","fromSide":"bottom","toNode":"0d4c23a804cdba0a","toSide":"top"}
+	]
+}

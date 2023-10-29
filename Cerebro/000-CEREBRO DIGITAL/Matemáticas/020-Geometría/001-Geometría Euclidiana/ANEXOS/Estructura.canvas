@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[007-Ángulos]]","id":"8522c504db0fd5d7","x":-58,"y":-260,"width":199,"height":50},
+		{"type":"text","text":"[[008-Figuras]]","id":"548c0edd6c5fbdd6","x":-83,"y":-460,"width":250,"height":60},
+		{"type":"text","text":"[[005-Rectas, segmentos y rayos]]","id":"93f75660c0eff120","x":-138,"y":-640,"width":359,"height":50},
+		{"type":"text","text":"[[000-Menú Geometría📃|Menú]]","id":"38fa7930031d3e6d","x":-39,"y":-820,"width":160,"height":80},
+		{"type":"text","text":"[[010-2D área y perímetro]]","id":"e8c79dd41597d737","x":-108,"y":-40,"width":299,"height":50},
+		{"type":"text","text":"[[030-Cuadriláteros]]","id":"cdc0c19f1b0c3423","x":-407,"y":120,"width":250,"height":60},
+		{"type":"text","text":"[[040-Triángulos]]","id":"e8fc6f58210d385c","x":231,"y":120,"width":250,"height":60},
+		{"type":"text","text":"[[045-Triángulos Pitágoras ,congruencia y semejanza]]","id":"e02de3742cd38a01","x":137,"y":310,"width":439,"height":60},
+		{"id":"90170b1403df430b","x":136,"y":520,"width":440,"height":60,"type":"text","text":"[[050-Demostraciones del teorema de Pitágoras|Demostración del teorema de Pitágoras]]"}
+	],
+	"edges":[
+		{"id":"bf72491b2d1ec1b2","fromNode":"548c0edd6c5fbdd6","fromSide":"bottom","toNode":"8522c504db0fd5d7","toSide":"top"},
+		{"id":"490108e278389b87","fromNode":"e8fc6f58210d385c","fromSide":"bottom","toNode":"e02de3742cd38a01","toSide":"top"},
+		{"id":"1258dba4e627dde9","fromNode":"e8c79dd41597d737","fromSide":"right","toNode":"e8fc6f58210d385c","toSide":"top"},
+		{"id":"25e19bd9426e5f70","fromNode":"e8c79dd41597d737","fromSide":"left","toNode":"cdc0c19f1b0c3423","toSide":"top"},
+		{"id":"88fd7f039ee405b2","fromNode":"38fa7930031d3e6d","fromSide":"bottom","toNode":"93f75660c0eff120","toSide":"top"},
+		{"id":"ea21810f4858d991","fromNode":"93f75660c0eff120","fromSide":"bottom","toNode":"548c0edd6c5fbdd6","toSide":"top"},
+		{"id":"f66d49b6d41d4d3c","fromNode":"8522c504db0fd5d7","fromSide":"bottom","toNode":"e8c79dd41597d737","toSide":"top"},
+		{"id":"2751591399263dcd","fromNode":"e02de3742cd38a01","fromSide":"bottom","toNode":"90170b1403df430b","toSide":"top"}
+	]
+}

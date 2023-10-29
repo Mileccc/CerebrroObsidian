@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "9137faf859587b3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "22c2d9a215366754",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "657c1a57e5dd1472",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "000-CEREBRO DIGITAL/Informática/Programación/Git y GitHub/Git y GitHub.canvas",
+                "viewState": {
+                  "x": 16875.87420437008,
+                  "y": 2767.5754929347368,
+                  "zoom": -0.8040496571401903
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29430ee084c34106",
+    "type": "split",
+    "children": [
+      {
+        "id": "57b63bedf67a8ec2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a511673414cca9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7381e9aed71d5994",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#gitdiff--staged",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a60b6d1441fdd983",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 381.50418853759766
+  },
+  "right": {
+    "id": "7723eb2c9dae3e95",
+    "type": "split",
+    "children": [
+      {
+        "id": "391edae10058d4ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "766f57b0414b08a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000-CEREBRO DIGITAL/Informática/Programación/Git y GitHub/006- 📚 git add, git status, git commit.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60338c8eaef86ea4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000-CEREBRO DIGITAL/Informática/Programación/Git y GitHub/006- 📚 git add, git status, git commit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2706c44bda89e608",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3cd94a77e6b26481",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000-CEREBRO DIGITAL/Informática/Programación/Git y GitHub/006- 📚 git add, git status, git commit.md"
+              }
+            }
+          },
+          {
+            "id": "6a2d907f7c4e5e1a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "96718bd4d266a3b5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 440.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "dbfolder:Crear una nueva tabla de base de datos": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "657c1a57e5dd1472",
+  "lastOpenFiles": [
+    "000-CEREBRO DIGITAL/Filosofía/030-Audiolibros.md",
+    "a-first-course-in-machine-learning_compress.pdf.md",
+    "000-CEREBRO DIGITAL/Filosofía/ANEXOS/hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow.pdf",
+    "000-CEREBRO DIGITAL/Informática/Programación/Git y GitHub/Git y GitHub.canvas",
+    "000-CEREBRO DIGITAL/Filosofía/ANEXOS/a-first-course-in-machine-learning.pdf",
+    "000-CEREBRO DIGITAL/Filosofía/ANEXOS/a-first-course-in-machine-learning_compress_compressed-comprimido-1-1.pdf",
+    "000-CEREBRO DIGITAL/Filosofía/ANEXOS/a-first-course-in-machine-learning_compress (Copia de NXPowerLite).pdf",
+    "000-CEREBRO DIGITAL/Informática/Programación/Java/100- Ficheros.md",
+    "000-CEREBRO DIGITAL/Informática/Programación/HTML/Etiqueta desplegable.md",
+    "000-CEREBRO DIGITAL/Informática/Programación/Grado Superior CESUR/000-Menú Grado Superior CESUR 📃.md",
+    "000-CEREBRO DIGITAL/Informática/APP/IA/001-4 MÉTODOS de IA para AHORRAR TIEMPO y exprimir INTERNET.md",
+    "000-CEREBRO DIGITAL/Filosofía/999-.md",
+    "000-CEREBRO DIGITAL/Filosofía/010- Procrastinación.md",
+    "000-CEREBRO DIGITAL/Filosofía/020- Meditación.md",
+    "000-CEREBRO DIGITAL/Filosofía/001- Karl Marx.md",
+    "000-CEREBRO DIGITAL/Matemáticas/Recursos matematicos/010-Símbolos matemáticos.md",
+    "000-CEREBRO DIGITAL/Matemáticas/Recursos matematicos/000-Menú  Recursos matemáticos📃.md",
+    "001-ENTRADA/Revisar ocio.md",
+    "001-ENTRADA/udemy deep learning.md",
+    "001-ENTRADA/cosas por hacer.md",
+    "001-ENTRADA/a clasificar.md",
+    "100-PROYECTOS/001-Sin iniciar/Programación/Python/Videos YouTube sin iniciar.md",
+    "100-PROYECTOS/005-En proceso/Notion/000-Menú 📃.md",
+    "100-PROYECTOS/005-En proceso/Notion/001-Guía de viajes básica 1.md",
+    "100-PROYECTOS/005-En proceso/Notion/001-Guía de viajes básica 2.md",
+    "100-PROYECTOS/005-En proceso/Notion/002-Repositorio de artículos tipo Pocket con Notion Web Clipper.md",
+    "100-PROYECTOS/005-En proceso/Notion/003-Repositorio de recetas.md",
+    "100-PROYECTOS/005-En proceso/Notion/004-Crear una tabla de control de gastos.md",
+    "100-PROYECTOS/005-En proceso/Programación/Python/Videos YouTube en proceso.md",
+    "100-PROYECTOS/005-En proceso/CV.md",
+    "900-DIARIO/ANEXOS/renovación paro noviembre.pdf",
+    "900-DIARIO/ANEXOS/document2.pdf",
+    "000-CEREBRO DIGITAL/Informática/Programación/Grado Superior CESUR/Full Stack/Full Stack.canvas",
+    "ANEXOS/Pasted image 20231002113612.png",
+    "000-CEREBRO DIGITAL/Informática/Programación/Git y GitHub/ANEXOS/Pasted image 20231028105208.png",
+    "000-CEREBRO DIGITAL/Informática/Programación/Git y GitHub/ANEXOS/Pasted image 20231028105139.png",
+    "000-CEREBRO DIGITAL/Informática/Programación/Git y GitHub/ANEXOS/Pasted image 20231028104649.png",
+    "000-CEREBRO DIGITAL/Informática/Programación/Git y GitHub/ANEXOS/Pasted image 20231028104606.png",
+    "000-CEREBRO DIGITAL/Informática/Programación/Git y GitHub/ANEXOS/Pasted image 20231028104530.png",
+    "000-CEREBRO DIGITAL/Informática/Programación/Git y GitHub/ANEXOS/Pasted image 20231027201946.png",
+    "000-CEREBRO DIGITAL/Informática/Programación/Git y GitHub/ANEXOS/Pasted image 20231027201229.png",
+    "000-CEREBRO DIGITAL/Informática/Programación/Git y GitHub/ANEXOS/Pasted image 20231027193538.png",
+    "000-CEREBRO DIGITAL/Informática/Programación/Git y GitHub/ANEXOS/Pasted image 20231027192801.png",
+    "000-CEREBRO DIGITAL/Informática/Programación/Git y GitHub/ANEXOS/desktop.ini",
+    "000-CEREBRO DIGITAL/Informática/Programación/Git y GitHub/ANEXOS",
+    "000-CEREBRO DIGITAL/Informática/Programación/Git y GitHub/desktop.ini",
+    "000-CEREBRO DIGITAL/Informática/Programación/Git y GitHub",
+    "000-CEREBRO DIGITAL/Informática/Programación/Grado Superior CESUR/Empresa e iniciativa emprendedora/Empresa e iniciativa emprendedora.canvas",
+    "000-CEREBRO DIGITAL/Informática/Programación/Grado Superior CESUR/Sistemas de Gestión Empresarial/Sistemas de gestión empresarial.canvas",
+    "000-CEREBRO DIGITAL/Informática/Programación/Grado Superior CESUR/Desarrollo de interfaces/JAVAfx.canvas",
+    "000-CEREBRO DIGITAL/Informática/Programación/Grado Superior CESUR/Acceso a datos/File.canvas",
+    "000-CEREBRO DIGITAL/Informática/Programación/Grado Superior CESUR/Programación de servicios y procesos/Programación de servicios y procesos.canvas",
+    "000-CEREBRO DIGITAL/Informática/Programación/Grado Superior CESUR/Programación Multimedia y Dispositivos Móviles/Programación multimedia y dispositivos móviles.canvas",
+    "000-CEREBRO DIGITAL/Informática/Programación/Paleta de jerarquías.canvas",
+    "000-CEREBRO DIGITAL/Matemáticas/Estadística y probabilidad/070- Conjuntos.canvas"
+  ]
+}

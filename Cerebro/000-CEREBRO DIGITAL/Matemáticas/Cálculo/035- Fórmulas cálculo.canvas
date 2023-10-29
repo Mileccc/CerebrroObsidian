@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"c367940ff3879750","type":"text","text":"$${\\color{orange} concentracion}=\\frac{{\\color{cyan}Volumen\\,del\\,ingrediente}}{{\\color{red} Volumen\\,total}} $$","x":-760,"y":-320,"width":820,"height":220},
+		{"id":"448b6c5c279ab824","type":"text","text":"$${\\color{cyan}distancia}={\\color{red}tasa}·{\\color{orange}tiempo}$$\n\n$${\\color{orange}tiempo}=\\frac{\\color{cyan}{distancia}}{\\color{red}{tasa}}$$","x":-620,"y":-60,"width":600,"height":240}
+	],
+	"edges":[]
+}

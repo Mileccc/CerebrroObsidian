@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"cf12cd850f55dd6b","x":-125,"y":-30,"width":250,"height":60,"color":"#ff00e1","type":"text","text":"Eje Central"},
+		{"id":"694d3251a0ea9b86","x":460,"y":-30,"width":250,"height":60,"color":"1","type":"text","text":"Hilo principal"},
+		{"id":"465d02a9fc9ac36d","x":460,"y":-280,"width":250,"height":100,"color":"2","type":"text","text":"Hilo secundario"},
+		{"id":"90b48d48bab00afb","x":460,"y":-480,"width":250,"height":100,"color":"3","type":"text","text":"Hilo terciario"},
+		{"id":"1bebc69814a57257","x":-40,"y":-500,"width":250,"height":70,"color":"#000000","type":"text","text":"Código"},
+		{"id":"4e584cdf215c8dc7","x":454,"y":-760,"width":263,"height":99,"color":"4","type":"text","text":"Video Tutoriales"},
+		{"id":"3dbca6d8e05d7726","x":-540,"y":-66,"width":250,"height":132,"color":"#ffffff","type":"text","text":"Mapas mentales o esquemas"}
+	],
+	"edges":[
+		{"id":"5dea91be344df69a","fromNode":"cf12cd850f55dd6b","fromSide":"right","toNode":"694d3251a0ea9b86","toSide":"left","color":"#ff00ff"},
+		{"id":"0d2a840d90de9b73","fromNode":"694d3251a0ea9b86","fromSide":"top","toNode":"465d02a9fc9ac36d","toSide":"bottom","color":"2"},
+		{"id":"0175a04f777a2ad1","fromNode":"465d02a9fc9ac36d","fromSide":"top","toNode":"90b48d48bab00afb","toSide":"bottom","color":"3"},
+		{"id":"02dc06942262065a","fromNode":"90b48d48bab00afb","fromSide":"left","toNode":"1bebc69814a57257","toSide":"right","color":"#000000","label":"Código"},
+		{"id":"9b60936fa651ea37","fromNode":"90b48d48bab00afb","fromSide":"top","toNode":"4e584cdf215c8dc7","toSide":"bottom","color":"4","label":"VideoTutorial"},
+		{"id":"b8d7aaa6dc8c9c09","fromNode":"cf12cd850f55dd6b","fromSide":"left","toNode":"3dbca6d8e05d7726","toSide":"right","color":"#ffffff","label":"Esquema"}
+	]
+}
